@@ -1,2 +1,2 @@
 # KeyLogger-en-java
-Código que se utilizo para hacer el keyLogger en java, utilizando la librería JNativeHook
+El proyecto se pueden descomprimir y abrirlo desde netbeans
